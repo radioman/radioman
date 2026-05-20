@@ -57,6 +57,21 @@ Using the right tools can significantly improve **execution speed, alpha detecti
 * Additional trading utilities
   → [Open Padre](https://trade.padre.gg/rk/423116)
 
+### 🖥️ Low-Latency Infrastructure (Critical for MEV)
+
+**Recommended VPS + ShredStream Setup** — `low latency trading server / solana bot hosting`
+
+For best performance, run the bot on a [**New York-based low-latency VPS**](https://app.tradingvps.io/aff.php?aff=22) together with [**ShredStream**](https://www.shredstream.com/?ref=ZZXK7TPB) for faster Solana data access and execution:
+
+→[Try Tradingvps](https://app.tradingvps.io/aff.php?aff=22)
+
+→ [Try shredstream](https://www.shredstream.com/?ref=ZZXK7TPB)
+
+* ⚡ Lower latency = faster execution
+* 🔁 More reliable transaction inclusion
+* 📡 Faster Solana shred/transaction streaming
+* 🧩 Better performance for MEV / sniping strategies
+
 ---
 ## 💰 Trading AI Agent Services
 [<table> <tr> <th>Service</th> <th>Price</th> <th>What You Get</th> </tr> <tr> <td>🟢 Starter Agent</td> <td>$100+</td> <td>OpenClaw-based agent, basic automation, ready-to-run setup</td> </tr> <tr> <td>🟡 Custom Trading Agent</td> <td>$200+</td> <td>Custom strategy, wallet tracking, signal-based execution</td> </tr> <tr> <td>🔴 Full Trading Bot (copy / Sniper / customized strategy)</td> <td>$500+</td> <td>Fully customized bot, high-frequency execution, anti-rug filters</td> </tr> </table>](https://t.me/OCtradinghubofficial)
