@@ -12,7 +12,8 @@ Using the right tools can significantly improve **execution speed, alpha detecti
 
 ---
 
-(🌟🌟🌟click and signup! so your polymarket account will be boosted instantly)<a href="https://polymarket.com/?r=cryptoking1106"><img width="745" height="93" alt="image" src="https://github.com/user-attachments/assets/746d4631-5b96-4fe9-b955-afedf971256c" /></a>
+(🌟🌟🌟click and signup! so your polymarket account will be boosted instantly)<a href="https://polymarket.com/?r=cryptoking1106">
+<img width="277" height="45" alt="image" src="https://github.com/user-attachments/assets/06fc93ff-82b6-4199-b285-e11117fa0dea" />
 
 <a href="https://axiom.trade/@423116"><img src="./assets/axiom.png" alt="Axiom Trade" width="30" height="30"></a> [**Axiom Trade** — `solana trading bot / fast execution / low fees`](https://axiom.trade/@423116)
 
